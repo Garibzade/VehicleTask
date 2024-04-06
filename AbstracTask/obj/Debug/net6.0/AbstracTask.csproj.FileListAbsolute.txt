@@ -1,0 +1,14 @@
+C:\Users\Qarib\Desktop\c#\AbstracTask\bin\Debug\net6.0\AbstracTask.exe
+C:\Users\Qarib\Desktop\c#\AbstracTask\bin\Debug\net6.0\AbstracTask.deps.json
+C:\Users\Qarib\Desktop\c#\AbstracTask\bin\Debug\net6.0\AbstracTask.runtimeconfig.json
+C:\Users\Qarib\Desktop\c#\AbstracTask\bin\Debug\net6.0\AbstracTask.dll
+C:\Users\Qarib\Desktop\c#\AbstracTask\bin\Debug\net6.0\AbstracTask.pdb
+C:\Users\Qarib\Desktop\c#\AbstracTask\obj\Debug\net6.0\AbstracTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qarib\Desktop\c#\AbstracTask\obj\Debug\net6.0\AbstracTask.AssemblyInfoInputs.cache
+C:\Users\Qarib\Desktop\c#\AbstracTask\obj\Debug\net6.0\AbstracTask.AssemblyInfo.cs
+C:\Users\Qarib\Desktop\c#\AbstracTask\obj\Debug\net6.0\AbstracTask.csproj.CoreCompileInputs.cache
+C:\Users\Qarib\Desktop\c#\AbstracTask\obj\Debug\net6.0\AbstracTask.dll
+C:\Users\Qarib\Desktop\c#\AbstracTask\obj\Debug\net6.0\refint\AbstracTask.dll
+C:\Users\Qarib\Desktop\c#\AbstracTask\obj\Debug\net6.0\AbstracTask.pdb
+C:\Users\Qarib\Desktop\c#\AbstracTask\obj\Debug\net6.0\AbstracTask.genruntimeconfig.cache
+C:\Users\Qarib\Desktop\c#\AbstracTask\obj\Debug\net6.0\ref\AbstracTask.dll
